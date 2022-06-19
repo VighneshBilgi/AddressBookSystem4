@@ -21,7 +21,7 @@ public class AddressBookMain {
             System.out.println("5. Add Address Book");
             System.out.println("6. View Contacts by City or State");
             System.out.println("7. Count Contacts by City or State");
-            System.out.println("8. Sort Contacts by City or State");
+            System.out.println("8. Sort Contacts by Name, City or State");
             System.out.println("9. Exit Contacts Menu");
 
 
